@@ -42,8 +42,14 @@ Having trouble with Pages? Check out our [documentation](https://docs.github.com
 
 
 #PRUEBA
+
+
+
 ##PRUEBA
+
+
+
 ###PRUEBA
 
 
-Hol,a, en este informe técnico se pretende mostar todo el preprocesamiento hecho a la base de datos entregada para trabajar.
+Hola, en este informe técnico se pretende mostar todo el preprocesamiento hecho a la base de datos entregada para trabajar.
